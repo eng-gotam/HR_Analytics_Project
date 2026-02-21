@@ -1,0 +1,21 @@
+employee_id,name,age,gender,department,job_role,salary,experience_years,joining_date,attrition,impossiblr_age,impossible_Salary,experience_great_age,joining_date_missing,joining_year,tenure_year,Salary_level,age_level,attrition_flag,salary_bucket
+1,Ali Khan,28.0,Male,Sales,sales executive,55000.0,3.0,2019-05-10,No,False,True,False,False,2019.0,5,Mid,Young,0,30–60k
+2,Sara Ahmed,35.0,Female,Hr,hr manager,85000.0,8.0,2016-03-14,No,False,True,False,False,2016.0,8,Mid,Mid,0,60–90k
+3,Bilal Hussain,29.0,Male,It,data analyst,62000.0,4.0,2020-01-11,Yes,False,True,False,False,2020.0,4,Mid,Young,1,60–90k
+5,Ayesha Malik,27.0,Female,It,data analyst,58000.0,2.0,2021-08-12,No,False,True,False,False,2021.0,3,Mid,Young,0,30–60k
+6,Hassan Ali,45.0,Male,Sales,sales manager,120000.0,20.0,2003-04-03,No,False,True,False,False,2003.0,21,High,Senoir,0,90–120k
+7,Laiba Noor,24.0,Female,Hr,recruiter,95000.0,1.0,2022-09-18,Yes,False,False,False,False,2022.0,2,Mid,Young,1,90–120k
+8,Usman Shah,52.0,Male,It,network engineer,250000.0,30.0,1995-06-15,No,False,True,False,False,1995.0,29,High,Senoir,0,
+9,Sadia Raza,19.0,Female,Sales,sales executive,25000.0,0.0,2023-02-20,Yes,False,False,False,False,2023.0,1,low,Young,1,0–30k
+10,Kamran Aziz,31.0,Male,Finance,accountant,71000.0,6.0,2017-10-30,No,False,True,False,False,2017.0,7,Mid,Senoir,0,60–90k
+11,Rehan Malik,38.0,Male,Unknown,senior analyst,92000.0,10.0,2012-01-29,No,False,True,False,False,2012.0,12,Mid,Mid,0,90–120k
+12,Amna Tariq,29.0,Female,Hr,hr manager,82000.0,5.0,2018-05-21,No,False,True,False,False,2018.0,6,Mid,Young,0,60–90k
+13,Danish Khan,60.0,Male,It,devops engineer,150000.0,40.0,1983-03-11,No,False,True,False,False,1983.0,41,High,Senoir,0,120k+
+14,Faisal Ahmed,26.0,Male,Finance,junior accountant,45000.0,1.0,2022-11-05,Yes,False,True,False,False,2022.0,2,low,Young,1,30–60k
+15,Noor Fatima,31.0,Female,It,software engineer,89000.0,7.0,2016-06-16,No,False,True,False,False,2016.0,8,Mid,Senoir,0,60–90k
+17,XYZ,31.0,Male,Hr,recruiter,95000.0,1.0,1980-01-01,No,True,True,False,False,1980.0,44,Mid,Senoir,0,90–120k
+18,Marina,30.0,Female,Finance,accountant,71000.0,5.0,2018-08-08,No,False,False,False,False,2018.0,6,Mid,Senoir,0,60–90k
+20,John Doe,33.0,Male,It,data scientist,220000.0,7.0,2014-09-09,No,False,True,False,False,2014.0,10,High,Mid,0,
+23,Test User,34.0,Unknown,It,system admin,65000.0,4.0,,No,False,True,False,True,,,Mid,Mid,0,60–90k
+24,Unknown,40.0,Male,Admin,office assistant,38000.0,6.0,2018-02-02,No,False,True,False,False,2018.0,6,low,Mid,0,30–60k
+25,Hiba Meer,23.0,Female,It,intern,20000.0,0.0,2023-01-01,No,False,False,False,False,2023.0,1,low,Young,0,0–30k
